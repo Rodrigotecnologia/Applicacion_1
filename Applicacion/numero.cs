@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Applicacion
 {
-    internal class Program
+    internal class numero
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hola");
-        }
     }
 }
